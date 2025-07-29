@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+selenium
+beautifulsoup4
+plotly
+textblob
+pytrends
